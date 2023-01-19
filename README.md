@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulphysio
 - 👀 I’m interested in working remotely
-- I am an Engineering student with 2 years of web development with Python, Django, Django Rest Framework and postgresql(backend) and bootstrap and react.js(frontend)
+- I am an Engineering student with 3 years of web development with Python, Django, Django Rest Framework and postgresql(backend) and bootstrap and react.js(frontend)
 - 📫 obinnap350@gmail.com, WhatsApp@ +2348146311456, Twitter@ @paulphysio10
 
 <!---
